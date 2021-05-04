@@ -11,5 +11,5 @@ Tecnologied used:
 <li>Javascript</li>
 </ul>
 <hr>
-![img](https://github.com/RafaelNevesdeOliveira/toDoList/blob/master/assets/screen.png?raw=true)
+![](https://github.com/RafaelNevesdeOliveira/toDoList/blob/master/assets/screen.png?raw=true)
 
