@@ -11,5 +11,5 @@ Tecnologied used:
 <li>Javascript</li>
 </ul>
 <hr>
-![image](/assets/screen.png)
+![image](assets/screen.png)
 
